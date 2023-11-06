@@ -1,0 +1,2 @@
+Prefix plugins/MARKING/example/
+Plugin MARKING inputfile parameters.txt outputfile output.txt
